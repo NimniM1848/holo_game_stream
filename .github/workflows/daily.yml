@@ -1,0 +1,78 @@
+name: 毎日の更新と公開
+
+on:
+  schedule:
+    - cron: "0 20 * * *"   # 毎日 日本時間 5:00（UTC 20:00）
+  workflow_dispatch:
+    inputs:
+      refresh_channels:
+        description: "チャンネル一覧(channels.json)も取り直す"
+        type: boolean
+        default: false
+      recent_days:
+        description: "何日前までの新着を取るか"
+        default: "14"
+
+permissions:
+  contents: write   # data/ のコミット用
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: チャンネル一覧を取り直す（手動実行で指定したときだけ）
+        if: ${{ inputs.refresh_channels }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+        run: python scripts/collect.py channels
+
+      - name: 新着を収集
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          RECENT_DAYS: ${{ inputs.recent_days || '14' }}
+        run: python scripts/collect.py --recent "$RECENT_DAYS"
+
+      - name: data/ の変更をコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "データ更新: $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          else
+            # 60日間リポジトリの動きがないと定期実行が止まるため、50日以上空いたら空コミットを作る
+            last=$(git log -1 --format=%ct)
+            if [ $(( $(date +%s) - last )) -gt $(( 50*24*3600 )) ]; then
+              git commit --allow-empty -m "定期実行を止めないための空コミット"
+            fi
+          fi
+          git pull --rebase
+          git push || echo "::warning::data/ の push に失敗しました（次回の実行で再取得されます）"
+
+      - name: サイトを生成
+        run: python scripts/build_site.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

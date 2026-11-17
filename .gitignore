@@ -1,0 +1,10 @@
+site/
+data/*.tmp
+__pycache__/
+*.pyc
+.env
+.env.*
+apikey.env
+*.env
+HANDOFF.md
+OPERATIONS.md

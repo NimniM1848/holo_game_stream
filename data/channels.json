@@ -1,0 +1,832 @@
+{
+ "channels": {
+  "UC060r4zABV18vcahAWR1n7w": {
+   "name": "Machina X Flayon",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- Vanguard",
+   "inactive": false
+  },
+  "UC0TXe_LYZ4scaW2XMyi5_kw": {
+   "name": "AZKi",
+   "suborg": null,
+   "group": "0th Generation",
+   "inactive": false
+  },
+  "UC10wVt6hoQiwySRhz7RdOUA": {
+   "name": "hololive ReGLOSS",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UC1CfXB_kRs3C-zaeTG3oGyg": {
+   "name": "Akai Haato",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UC1DCedRgGHBdm81E1llLhOQ": {
+   "name": "Usada Pekora",
+   "suborg": null,
+   "group": "3rd Generation (Fantasy)",
+   "inactive": false
+  },
+  "UC1iA6_NT4mtAcIII6ygrvCw": {
+   "name": "Todoroki Hajime",
+   "suborg": null,
+   "group": "DEV_IS ReGLOSS",
+   "inactive": false
+  },
+  "UC1opHUrw8rvnsadT-iGp7Cg": {
+   "name": "Minato Aqua",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": true
+  },
+  "UC1suqwovbL1kzsoaZgFZLKg": {
+   "name": "Yuzuki Choco",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": false
+  },
+  "UC1uv2Oq6kNxgATlCiez59hw": {
+   "name": "Tokoyami Towa",
+   "suborg": null,
+   "group": "4th Generation (holoForce)",
+   "inactive": false
+  },
+  "UC2hx0xVkMoHGWijwr_lA01w": {
+   "name": "Axel Syrios",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- HQ",
+   "inactive": false
+  },
+  "UC3n5uGu18FoCy23ggWWp8tA": {
+   "name": "Nanashi Mumei",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": true
+  },
+  "UC3OH5FKQ3qtl4uRme_vZTgA": {
+   "name": "UNIT B [Pre-Debut]",
+   "suborg": null,
+   "group": "mekPark",
+   "inactive": false
+  },
+  "UC5CwaMl1eIgY8h02uZw7u8A": {
+   "name": "Hoshimachi Suisei",
+   "suborg": null,
+   "group": "0th Generation",
+   "inactive": false
+  },
+  "UC6eWCld0KwmyHFbAqK3V-Rw": {
+   "name": "Hakui Koyori",
+   "suborg": null,
+   "group": "6th Generation -holoX-",
+   "inactive": false
+  },
+  "UC6t3-_N8A6ME1JShZHHqOMw": {
+   "name": "Hanasaki Miyabi",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": true
+  },
+  "UC727SQYUvx5pDDGQpTICNWg": {
+   "name": "Anya Melfissa",
+   "suborg": null,
+   "group": "Indonesia 2nd Gen (holoro)",
+   "inactive": false
+  },
+  "UC7fk0CB07ly8oSl0aqKkqFg": {
+   "name": "Nakiri Ayame",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": false
+  },
+  "UC7gxU6NXjKF1LrgOddPzgTw": {
+   "name": "Banzoin Hakka",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- Vanguard",
+   "inactive": false
+  },
+  "UC7MMNHR-kf9EN1rXiesMTMw": {
+   "name": "Magni Dezmond",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- HQ",
+   "inactive": true
+  },
+  "UC8eitCE9Z6EwUCs-VUi1blg": {
+   "name": "Achichi Mela",
+   "suborg": null,
+   "group": "ASOBI★MAWARI-TAI!",
+   "inactive": false
+  },
+  "UC8rcEBzJSleTkf_-agPM20g": {
+   "name": "IRyS",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": false
+  },
+  "UC9LSiN9hXI55svYEBrrK-tw": {
+   "name": "Isaki Riona",
+   "suborg": null,
+   "group": "DEV_IS FLOW GLOW",
+   "inactive": false
+  },
+  "UC9mf_ZVpouoILRY9NUIaK-w": {
+   "name": "Rikka",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": true
+  },
+  "UC9p_lqQ0FEDz327Vgf5JwqA": {
+   "name": "Koseki Bijou",
+   "suborg": null,
+   "group": "English -Advent-",
+   "inactive": false
+  },
+  "UCa9Y57gfeY0Zro_noHRVrnw": {
+   "name": "Himemori Luna",
+   "suborg": null,
+   "group": "4th Generation (holoForce)",
+   "inactive": false
+  },
+  "UCAHwWUotyS3l2qBetFDsjgQ": {
+   "name": "ASOBI★MAWARI-TAI!",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCajbFh6e_R8QZdHAMbbi4rQ": {
+   "name": "Crimzon Ruze",
+   "suborg": null,
+   "group": "HOLOSTARS English -ARMIS-",
+   "inactive": false
+  },
+  "UCANDOlYTJT7N5jlRC3zfzVA": {
+   "name": "Yukoku Roberu",
+   "suborg": null,
+   "group": "HOLOSTARS 2nd Gen (SunTempo)",
+   "inactive": false
+  },
+  "UCAoy6rzhSf4ydcYjJw3WoVg": {
+   "name": "Airani Iofifteen",
+   "suborg": null,
+   "group": "Indonesia 1st Gen (AREA 15)",
+   "inactive": false
+  },
+  "UCawGfU44CZxd2ZVf_VGijbA": {
+   "name": "hololive Dreams",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCAWSyEs_Io8MtpY3m-zqILA": {
+   "name": "Momosuzu Nene",
+   "suborg": null,
+   "group": "5th Generation (holoFive)",
+   "inactive": false
+  },
+  "UCc88OV45ICgHbn3ZqLLb52w": {
+   "name": "Yatogami Fuma",
+   "suborg": null,
+   "group": "HOLOSTARS UPROAR!!",
+   "inactive": false
+  },
+  "UCCzUftO8KOVkV4wQG1vkUvg": {
+   "name": "Houshou Marine",
+   "suborg": null,
+   "group": "3rd Generation (Fantasy)",
+   "inactive": false
+  },
+  "UCD8HOxPs4Xvsm8H0ZxXGiBw": {
+   "name": "Yozora Mel",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": true
+  },
+  "UCdfMHxjcCc2HSd9qFvfJgjg": {
+   "name": "Minase Rio",
+   "suborg": null,
+   "group": "HOLOSTARS UPROAR!!",
+   "inactive": true
+  },
+  "UCDHABijvPBnJm7F-KlNME3w": {
+   "name": "Gigi Murin",
+   "suborg": null,
+   "group": "English -Justice-",
+   "inactive": false
+  },
+  "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+   "name": "Shirakami Fubuki",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UCDqI2jOz0weumE8s7paEk6g": {
+   "name": "Robocosan",
+   "suborg": null,
+   "group": "0th Generation",
+   "inactive": false
+  },
+  "UCDRWSO281bIHYVi-OV3iFYA": {
+   "name": "Noir Vesper",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- HQ",
+   "inactive": true
+  },
+  "UCdXAk5MpyLD8594lm_OvtGQ": {
+   "name": "Juufuutei Raden",
+   "suborg": null,
+   "group": "DEV_IS ReGLOSS",
+   "inactive": false
+  },
+  "UCdyqAaZDKHXg4Ahi7VENThQ": {
+   "name": "Shirogane Noel",
+   "suborg": null,
+   "group": "3rd Generation (Fantasy)",
+   "inactive": false
+  },
+  "UCENwRMx5Yh42zWpzURebzTw": {
+   "name": "La+ Darknesss",
+   "suborg": null,
+   "group": "6th Generation -holoX-",
+   "inactive": false
+  },
+  "UCEzsociuFqVwgZuMaZqaCsg": {
+   "name": "Kagami Kira",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": true
+  },
+  "UCFKOVgVbGmX65RxO3EtH3iw": {
+   "name": "Yukihana Lamy",
+   "suborg": null,
+   "group": "5th Generation (holoFive)",
+   "inactive": false
+  },
+  "UCfpWrWvbA34LmrZ9h4Lbwag": {
+   "name": "Holoearth",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCfrWoRGlawPQDQxxeIDRP0Q": {
+   "name": "hololive Indonesia",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCFTLzh12_nrtzqBPsTCqenA": {
+   "name": "Aki Rosenthal",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UCGKgJ4MtJ1coi6tWJUfnsQA": {
+   "name": "Yakushiji Suzaku",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": true
+  },
+  "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+   "name": "Hakos Baelz",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": false
+  },
+  "UCgnfPPb9JI3e9A4cXHnWbyg": {
+   "name": "Shiori Novella",
+   "suborg": null,
+   "group": "English -Advent-",
+   "inactive": false
+  },
+  "UCGNI4MENvnsymYjKiZwv9eg": {
+   "name": "Kishido Temma",
+   "suborg": null,
+   "group": "HOLOSTARS 2nd Gen (SunTempo)",
+   "inactive": true
+  },
+  "UCgNVXGlZIFK96XdEY20sVjg": {
+   "name": "Civia",
+   "suborg": null,
+   "group": "CN 1st Generation",
+   "inactive": true
+  },
+  "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+   "name": "Utsugi Uyu",
+   "suborg": null,
+   "group": "HOLOSTARS UPROAR!!",
+   "inactive": false
+  },
+  "UCGSOfFtVCTBfmGxHK5OD8ag": {
+   "name": "Ankimo",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": true
+  },
+  "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+   "name": "Kikirara Vivi",
+   "suborg": null,
+   "group": "DEV_IS FLOW GLOW",
+   "inactive": false
+  },
+  "UCgZuwn-O7Szh9cAgHqJ6vjw": {
+   "name": "Mano Aloe",
+   "suborg": null,
+   "group": "5th Generation (holoFive)",
+   "inactive": true
+  },
+  "UChAnqc_AY5_I3Px5dig3X1Q": {
+   "name": "Inugami Korone",
+   "suborg": null,
+   "group": "GAMERS",
+   "inactive": false
+  },
+  "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+   "name": "Pavolia Reine",
+   "suborg": null,
+   "group": "Indonesia 2nd Gen (holoro)",
+   "inactive": false
+  },
+  "UCHj_mh57PVMXhAUDphUQDFA": {
+   "name": "Akai Haato (Sub)",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UC-hM6YJuNYVAmUWxeIr9FeA": {
+   "name": "Sakura Miko",
+   "suborg": null,
+   "group": "0th Generation",
+   "inactive": false
+  },
+  "UCHP4f7G2dWD4qib7BMatGAw": {
+   "name": "Gavis Bettel",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- Vanguard",
+   "inactive": false
+  },
+  "UChpRPsAeSZn5DistGacR3iA": {
+   "name": "ACHRORA",
+   "suborg": null,
+   "group": "mekPark",
+   "inactive": false
+  },
+  "UChSvpZYRPh0FvG4SJGSga3g": {
+   "name": "Kageyama Shien",
+   "suborg": null,
+   "group": "HOLOSTARS 3rd Gen (TriNero)",
+   "inactive": true
+  },
+  "UCHsx4Hqa-1ORjQTh9TYDhww": {
+   "name": "Takanashi Kiara",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": false
+  },
+  "UCIBY1ollUsauvVi4hW4cumw": {
+   "name": "Sakamata Chloe",
+   "suborg": null,
+   "group": "6th Generation -holoX-",
+   "inactive": true
+  },
+  "UCIvJ2ws0x3ulxR5EZ8ZzA2A": {
+   "name": "hololive Majong -holojan-",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCJFZiqLMntJufDCHc6bQixg": {
+   "name": "hololive VTuber Group",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+   "name": "Mizumiya Su",
+   "suborg": null,
+   "group": "DEV_IS FLOW GLOW",
+   "inactive": false
+  },
+  "UCjLEmnpCNeisMxy134KPwWw": {
+   "name": "Kobo Kanaeru",
+   "suborg": null,
+   "group": "Indonesia 3rd Gen (holoh3ro)",
+   "inactive": false
+  },
+  "UCJv02SHZgav7Mv3V0kBOR8Q": {
+   "name": "Goldbullet",
+   "suborg": null,
+   "group": "HOLOSTARS English -ARMIS-",
+   "inactive": false
+  },
+  "UCJxZpzx4wHzEYD-eCiZPikg": {
+   "name": "HOLOSTARS English",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCK9V2B22uJYu3N7eR_BT9QA": {
+   "name": "Omaru Polka",
+   "suborg": null,
+   "group": "5th Generation (holoFive)",
+   "inactive": false
+  },
+  "UCKeAhJvy8zgXWbh9duVjIaQ": {
+   "name": "Arurandeisu",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": true
+  },
+  "UCKMWFR6lAstLa7Vbf5dH7ig": {
+   "name": "Rindo Chihaya",
+   "suborg": null,
+   "group": "DEV_IS FLOW GLOW",
+   "inactive": false
+  },
+  "UCkT1u65YS49ca_LsFwcTakw": {
+   "name": "Hizaki Gamma",
+   "suborg": null,
+   "group": "HOLOSTARS UPROAR!!",
+   "inactive": true
+  },
+  "UCKYyiJwNg2nV7hM86U5_wvw": {
+   "name": "Omegaα hololive-EN",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": true
+  },
+  "UCl69AEx4MdqMZH7Jtsm7Tig": {
+   "name": "Raora Panthera",
+   "suborg": null,
+   "group": "English -Justice-",
+   "inactive": false
+  },
+  "UCl7xaOxJUq7GsD4M8N68FaA": {
+   "name": "HLZNTL",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": true
+  },
+  "UCLbtM3JZfRTg8v2KGag-RMw": {
+   "name": "Aki Rosenthal (Sub)",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UCl_gCybOJRIgOXw6Qb4qJzQ": {
+   "name": "Uruha Rushia",
+   "suborg": null,
+   "group": "3rd Generation (Fantasy)",
+   "inactive": true
+  },
+  "UCLGFMR7JOmPUuLXRh0hliTQ": {
+   "name": "mekPark",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+   "name": "Octavio",
+   "suborg": null,
+   "group": "HOLOSTARS English -ARMIS-",
+   "inactive": false
+  },
+  "UCL_qhgtOy0dy1Agp8vkySQg": {
+   "name": "Mori Calliope",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": false
+  },
+  "UCmbs8T6MWqUHP1tIQvSgKrg": {
+   "name": "Ouro Kronii",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": false
+  },
+  "UCMGfV7TVTmHhEErVJg1oHBQ": {
+   "name": "Hiodoshi Ao",
+   "suborg": null,
+   "group": "DEV_IS ReGLOSS",
+   "inactive": true
+  },
+  "UCmms2EE02mK4zdECwrHBpaA": {
+   "name": "hololive OFFICIAL CARD GAME",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCMqGG8BRAiI1lJfKOpETM_w": {
+   "name": "Josuiji Shinri",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- Vanguard",
+   "inactive": false
+  },
+  "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+   "name": "Ninomae Ina'nis",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": false
+  },
+  "UCMyuwtApj--U6jm-NFzZMOw": {
+   "name": "Odeholo",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCNoxM_Kxoa-_gOtoyjbux7Q": {
+   "name": "hololive English Shorts",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": true
+  },
+  "UCnVbtCwr-5LXxUlGxsgD7sQ": {
+   "name": "Midnight Grand Orchestra",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCNVEsYbiZjH5QLmGeSgTSzg": {
+   "name": "Astel Leda",
+   "suborg": null,
+   "group": "HOLOSTARS 2nd Gen (SunTempo)",
+   "inactive": false
+  },
+  "UCO_aKKYxn4tvrqPjcTzZ6EQ": {
+   "name": "Ceres Fauna",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": true
+  },
+  "UCoSrY_IQQVpmIRZ9Xf-y93g": {
+   "name": "Gawr Gura",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": true
+  },
+  "UCotXwY6s8pWmuWd_snKYjhg": {
+   "name": "hololive English",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCOyYb1c43VlX9rc_lT6NKQw": {
+   "name": "Ayunda Risu",
+   "suborg": null,
+   "group": "Indonesia 1st Gen (AREA 15)",
+   "inactive": false
+  },
+  "UCozx5csNhCx1wsVq3SZVkBQ": {
+   "name": "holoAN room",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCP0BspO_AMEe3aQqqpo89Dg": {
+   "name": "Moona Hoshinova",
+   "suborg": null,
+   "group": "Indonesia 1st Gen (AREA 15)",
+   "inactive": false
+  },
+  "UCp3tgHXw_HI0QMk1K8qh3gQ": {
+   "name": "Choco Sub Channel",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": false
+  },
+  "UCp-5t9SrOQwXMU7iIjQfARg": {
+   "name": "Ookami Mio",
+   "suborg": null,
+   "group": "GAMERS",
+   "inactive": false
+  },
+  "UCp6993wxpyDPHUpavwDFqgg": {
+   "name": "Tokino Sora",
+   "suborg": null,
+   "group": "0th Generation",
+   "inactive": false
+  },
+  "UCQ0UDLQCjY0rmuxCDE38FGg": {
+   "name": "Natsuiro Matsuri",
+   "suborg": null,
+   "group": "1st Generation",
+   "inactive": false
+  },
+  "UCq4ky2drohLT7W0DmDEw1dQ": {
+   "name": "Takanashi Kiara SubCh.",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": false
+  },
+  "UCqm3BQLlJfvkTsX_hvm0UmA": {
+   "name": "Tsunomaki Watame",
+   "suborg": null,
+   "group": "4th Generation (holoForce)",
+   "inactive": false
+  },
+  "UCrEgFGxfrKGyy17V9csSa5w": {
+   "name": "Blue Journey",
+   "suborg": null,
+   "group": "holo-n",
+   "inactive": true
+  },
+  "UCROQtXcp2loQEmvpe5rhJzQ": {
+   "name": "Sorashina Sopia",
+   "suborg": null,
+   "group": "ASOBI★MAWARI-TAI!",
+   "inactive": false
+  },
+  "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+   "name": "Takane Lui",
+   "suborg": null,
+   "group": "6th Generation -holoX-",
+   "inactive": false
+  },
+  "UCS9uQI-jC3DE0L4IpXyvr6w": {
+   "name": "Kiryu Coco",
+   "suborg": null,
+   "group": "4th Generation (holoForce)",
+   "inactive": true
+  },
+  "UCsehvfwaWF6nWuFnXI0AqZQ": {
+   "name": "Tsukishita Kaoru",
+   "suborg": null,
+   "group": "HOLOSTARS 3rd Gen (TriNero)",
+   "inactive": true
+  },
+  "UC_sFNM0z0MWm9A6WlKPuMMg": {
+   "name": "Nerissa Ravencroft",
+   "suborg": null,
+   "group": "English -Advent-",
+   "inactive": false
+  },
+  "UCSjQDxud2HkAO2DVD3lwxmw": {
+   "name": "Hyakuto Kyoko",
+   "suborg": null,
+   "group": "ASOBI★MAWARI-TAI!",
+   "inactive": false
+  },
+  "UCsUj0dszADCGbF3gNrQEuSQ": {
+   "name": "Tsukumo Sana",
+   "suborg": null,
+   "group": "English -Promise-",
+   "inactive": true
+  },
+  "UCt4-iv7EP0UU_w733D_r_jA": {
+   "name": "holo indie",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCt9H_RpQzhxzlyBxFqrdHqA": {
+   "name": "Fuwawa & Mococo Abyssgard",
+   "suborg": null,
+   "group": "English -Advent-",
+   "inactive": false
+  },
+  "UCTvHWSfBZgtxE4sILOaurIQ": {
+   "name": "Vestia Zeta",
+   "suborg": null,
+   "group": "Indonesia 3rd Gen (holoh3ro)",
+   "inactive": false
+  },
+  "UCTVSOgYuSWmNAt-lnJPkEEw": {
+   "name": "Jurard T Rexford",
+   "suborg": null,
+   "group": "HOLOSTARS English -ARMIS-",
+   "inactive": false
+  },
+  "UCtyWhCj3AqKh2dXctLkDtng": {
+   "name": "Ichijou Ririka",
+   "suborg": null,
+   "group": "DEV_IS ReGLOSS",
+   "inactive": false
+  },
+  "UCu2DMOGLeR_DSStCyeQpi5Q": {
+   "name": "YAGOO",
+   "suborg": null,
+   "group": "Misc",
+   "inactive": false
+  },
+  "UCu2n3qHuOuQIygREMnWeQWg": {
+   "name": "hololive FLOW GLOW",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCuI_opAVX6qbxZY-a-AxFuQ": {
+   "name": "Koganei Niko",
+   "suborg": null,
+   "group": "DEV_IS FLOW GLOW",
+   "inactive": false
+  },
+  "UCUKD-uaobj9jiqB-VXt71mA": {
+   "name": "Shishiro Botan",
+   "suborg": null,
+   "group": "5th Generation (holoFive)",
+   "inactive": false
+  },
+  "UCvaTdHTWBGv3MKj3KVqJVCw": {
+   "name": "Nekomata Okayu",
+   "suborg": null,
+   "group": "GAMERS",
+   "inactive": false
+  },
+  "UCvInZx9h3jC2JzsIzoOebWg": {
+   "name": "Shiranui Flare",
+   "suborg": null,
+   "group": "3rd Generation (Fantasy)",
+   "inactive": false
+  },
+  "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+   "name": "Kazama Iroha",
+   "suborg": null,
+   "group": "6th Generation -holoX-",
+   "inactive": false
+  },
+  "UCvN5h1ShZtc7nly3pezRayg": {
+   "name": "Cecilia Immergreen",
+   "suborg": null,
+   "group": "English -Justice-",
+   "inactive": false
+  },
+  "UCvzGlP9oQwU--Y0r9id_jnA": {
+   "name": "Oozora Subaru",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": false
+  },
+  "UCW5uhrG1eCBYditmhL0Ykjw": {
+   "name": "Elizabeth Rose Bloodflame",
+   "suborg": null,
+   "group": "English -Justice-",
+   "inactive": false
+  },
+  "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+   "name": "Aragami Oga",
+   "suborg": null,
+   "group": "HOLOSTARS 3rd Gen (TriNero)",
+   "inactive": false
+  },
+  "UCWQtYtq9EOB4-I5P-3fh8lA": {
+   "name": "Otonose Kanade",
+   "suborg": null,
+   "group": "DEV_IS ReGLOSS",
+   "inactive": false
+  },
+  "UCWsfcksUUpoEvhia0_ut0bA": {
+   "name": "HOLOSTARS Official",
+   "suborg": null,
+   "group": "Official",
+   "inactive": false
+  },
+  "UCXTpFs_3PqI41qX2d9tL2Rw": {
+   "name": "Murasaki Shion",
+   "suborg": null,
+   "group": "2nd Generation",
+   "inactive": true
+  },
+  "UCy9mgxB8pn2C4aNK_MPthDQ": {
+   "name": "Suzuna Tsuzuri",
+   "suborg": null,
+   "group": "ASOBI★MAWARI-TAI!",
+   "inactive": false
+  },
+  "UCyl1z3jo3XHR1riLFKG5UAg": {
+   "name": "Watson Amelia",
+   "suborg": null,
+   "group": "English -Myth-",
+   "inactive": true
+  },
+  "UCyxtGMdWlURZ30WSnEjDOQw": {
+   "name": "Regis Altare",
+   "suborg": null,
+   "group": "HOLOSTARS English -TEMPUS- HQ",
+   "inactive": false
+  },
+  "UCYz_5n-uDuChHtLo7My1HnQ": {
+   "name": "Kureiji Ollie",
+   "suborg": null,
+   "group": "Indonesia 2nd Gen (holoro)",
+   "inactive": false
+  },
+  "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+   "name": "Kanade Izuru",
+   "suborg": null,
+   "group": "HOLOSTARS 1st Gen",
+   "inactive": false
+  },
+  "UCZlDXzGoo7d44bwdNObFacg": {
+   "name": "Amane Kanata",
+   "suborg": null,
+   "group": "4th Generation (holoForce)",
+   "inactive": true
+  },
+  "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+   "name": "Kaela Kovalskia",
+   "suborg": null,
+   "group": "Indonesia 3rd Gen (holoh3ro)",
+   "inactive": false
+  }
+ }
+}

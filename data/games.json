@@ -1,0 +1,30 @@
+{
+  "_note": "since は発売のおおよその年月（検索の絞り込み専用・画面には出さない）。review_required が true の作品は、検索結果を自動確定せず pending にする。ignore_if は、pattern に当たり、かつ unless に当たらないタイトルを除外する（正規表現。比較は空白除去・小文字化・全角半角統一した文字列に対して行う）。steam_app_id は任意。",
+  "games": [
+    {"id": "okaeri", "ja": "おかえり", "en": "Okaeri", "keywords": ["おかえり", "Okaeri"], "since": "2019-09", "steam_app_id": 1147960, "review_required": true},
+    {"id": "aka-manto", "ja": "赤マント", "en": "Aka Manto", "keywords": ["赤マント", "Aka Manto"], "since": "2019-09", "steam_app_id": 1130620, "review_required": false},
+    {"id": "stigmatized-property", "ja": "事故物件", "en": "Stigmatized Property", "keywords": ["事故物件", "Stigmatized Property"], "since": "2019-10", "steam_app_id": 1162680, "review_required": true, "ignore_if": [{"pattern": "鑑定士|監視協会|日本事故物件|japanstigmatizedproperty|jsp|同時視聴", "unless": "チラズ|chilla"}]},
+    {"id": "inunaki-tunnel", "ja": "犬鳴トンネル", "en": "Inunaki Tunnel", "keywords": ["犬鳴トンネル", "Inunaki Tunnel"], "since": "2019-11", "steam_app_id": 1185160, "review_required": false},
+    {"id": "yuki-onna", "ja": "雪女", "en": "Yuki Onna", "keywords": ["雪女", "Yuki Onna"], "since": "2020-01", "steam_app_id": 1191070, "review_required": false},
+    {"id": "convenience-store", "ja": "夜勤事件", "en": "The Convenience Store", "keywords": ["夜勤事件", "Convenience Store"], "since": "2020-02", "steam_app_id": 1228520, "review_required": false},
+    {"id": "onryo", "ja": "怨霊", "en": "Onryo", "keywords": ["怨霊", "Onryo"], "since": "2020-04", "steam_app_id": 1267310, "review_required": false},
+    {"id": "missing-children", "ja": "行方不明", "en": "Missing Children", "keywords": ["行方不明", "Missing Children"], "since": "2020-06", "steam_app_id": 1306620, "review_required": false},
+    {"id": "ghost-train", "ja": "幽霊列車", "en": "The Ghost Train", "keywords": ["幽霊列車", "Ghost Train"], "since": "2020-07", "steam_app_id": 1349960, "review_required": false},
+    {"id": "hanako", "ja": "花子さん", "en": "Hanako", "keywords": ["花子さん", "Hanako"], "since": "2020-12", "steam_app_id": 1400290, "review_required": false},
+    {"id": "caregiver", "ja": "終焉介護", "en": "The Caregiver", "keywords": ["終焉介護", "The Caregiver"], "since": "2021-04", "steam_app_id": 1503670, "review_required": false},
+    {"id": "night-delivery", "ja": "例外配達", "en": "Night Delivery", "keywords": ["例外配達", "Night Delivery"], "since": "2021-06", "steam_app_id": 1611490, "review_required": false},
+    {"id": "night-way-home", "ja": "帰り道", "en": "The Night Way Home", "keywords": ["帰り道", "Night Way Home"], "since": "2021-08", "steam_app_id": 1671550, "review_required": true},
+    {"id": "radio-station", "ja": "深夜放送", "en": "The Radio Station", "keywords": ["深夜放送", "Radio Station"], "since": "2021-10", "steam_app_id": 1744910, "review_required": false},
+    {"id": "closing-shift", "ja": "閉店事件", "en": "The Closing Shift", "keywords": ["閉店事件", "Closing Shift"], "since": "2022-03", "steam_app_id": 1843090, "review_required": false},
+    {"id": "karaoke", "ja": "ヒトカラ", "en": "The Karaoke", "keywords": ["ヒトカラ", "The Karaoke"], "since": "2023-02", "steam_app_id": 2200190, "review_required": false},
+    {"id": "night-security", "ja": "夜間警備", "en": "Night Security", "keywords": ["夜間警備", "Night Security"], "since": "2023-06", "steam_app_id": 2367230, "review_required": false},
+    {"id": "parasocial", "ja": "パラソーシャル", "en": "Parasocial", "keywords": ["パラソーシャル", "Parasocial"], "since": "2023-08", "steam_app_id": 2314720, "review_required": false},
+    {"id": "kidnap", "ja": "誘拐事件", "en": "The Kidnap", "keywords": ["誘拐事件", "The Kidnap"], "since": "2023-10", "steam_app_id": 2593900, "review_required": false},
+    {"id": "jisatsu", "ja": "自撮", "en": "Jisatsu", "keywords": ["自撮", "Jisatsu"], "since": "2023-12", "steam_app_id": 2716110, "review_required": true, "ignore_if": [{"pattern": "自撮り", "unless": "jisatsu|自撮(?!り)|チラズ|chilla"}]},
+    {"id": "shinkansen-0", "ja": "新幹線 0号", "en": "Shinkansen 0", "keywords": ["新幹線 0号", "新幹線0号", "Shinkansen 0"], "since": "2024-03", "steam_app_id": 2793370, "review_required": false},
+    {"id": "bathhouse", "ja": "地獄銭湯", "en": "The Bathhouse", "keywords": ["地獄銭湯", "The Bathhouse"], "since": "2024-08", "steam_app_id": 2989950, "review_required": false},
+    {"id": "cursed-digicam", "ja": "呪われたデジカメ", "en": "Cursed Digicam", "keywords": ["呪われたデジカメ", "Cursed Digicam"], "since": "2025-01", "steam_app_id": 3334550, "review_required": false},
+    {"id": "umigari", "ja": "ウミガリ", "en": "UMIGARI", "keywords": ["ウミガリ", "UMIGARI"], "since": "2026-02", "steam_app_id": 3772960, "review_required": false},
+    {"id": "snowed-under", "ja": "雪葬", "en": "Snowed Under", "keywords": ["雪葬", "Snowed Under"], "since": "2026-08", "steam_app_id": null, "review_required": false}
+  ]
+}
